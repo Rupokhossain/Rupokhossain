@@ -39,12 +39,10 @@ I'm a Frontend Developer passionate about building modern, responsive, and scala
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rupokhossain&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180px" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rupokhossain&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rupokhossain&show_icons=true&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupokhossain&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupokhossain&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupokhossain&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px" />
 </p>
-
-<!-- Proudly created with GPRM -->
