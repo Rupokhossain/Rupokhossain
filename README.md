@@ -12,7 +12,7 @@ I'm a Frontend Developer passionate about building modern, responsive, and scala
 ---
 
 ## 🛠 Tech Stack
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,postgres,prisma,mongodb,git,github,vscode" />
 </p>
 
