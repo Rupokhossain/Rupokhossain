@@ -37,12 +37,8 @@ I'm a Frontend Developer passionate about building modern, responsive, and scala
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rupokhossain&show_icons=true&theme=vision-friendly-dark&rank_icon=github&count_private=true" alt="GitHub Stats" height="175px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupokhossain&theme=vision-friendly-dark" alt="GitHub Streak" height="175px" />
-</p>
+## 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupokhossain&layout=compact&theme=vision-friendly-dark&hide_border=false" alt="Top Languages" height="175px" />
+  <img src="https://streak-stats.demolab.com?user=Rupokhossain&theme=github-dark&hide_border=true" />
 </p>
