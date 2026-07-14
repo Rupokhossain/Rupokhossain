@@ -3,23 +3,27 @@
 💻 Frontend Developer (Learning & Growing)  
 🚀 React.js | Next.js | Tailwind CSS  
 
-I’m a Computer Science student passionate about building clean, responsive, and user-friendly web applications.  
-Currently improving my skills by working on real-world inspired projects and following industry best practices.
+I'm a Frontend Developer passionate about building modern, responsive, and scalable web applications.
+
+Currently expanding my expertise in Backend Development with Node.js, Express, PostgreSQL, and Prisma while continuously improving my React and Next.js skills.
+
+I enjoy transforming ideas into real-world applications through clean, maintainable code.
 
 ---
 
 ## 🛠 Tech Stack
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Next.js
-- Tailwind CSS
-- Git & GitHub
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,postgres,prisma,mongodb,git,github,vscode" />
+</p>
 
 ---
 
 ## 📌 Current Focus
-- Strengthening core React concepts and best practices  
-- Designing fully responsive user interfaces with Tailwind CSS  
-- Understanding real-world project structure and scalable code organization
+- Learning Next.js App Router
+- Building Full Stack Applications with Express & PostgreSQL
+- Exploring Prisma ORM
+- Improving TypeScript skills
+- Practicing Clean Architecture
 
 
 ---
