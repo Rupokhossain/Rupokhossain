@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/xS08wmBW/Gemini-Generated-Image-wefnsgwefnsgwefn.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/xS08wmBW/Gemini-Generated-Image-wefnsgwefnsgwefn.png" alt="Banner" width="100%"  height="100%"/>
 </p>
 
 # 👋 Hi, I'm Rupok Hossain Siam
