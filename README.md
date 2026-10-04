@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/WWPFLdxX/Neon-Full-Stack-Developer-Portfolio.png" alt="Banner" width="100%" style="border-radius: 8px;" />
+  <img src="https://i.ibb.co.com/S4Sx0Sn6/Futuristic-Full-Stack-Developer-Workspace-Banner.png" alt="Banner" width="100%" style="border-radius: 8px;" />
 </p>
 
 # 👋 Hi, I'm Rupok Hossain Siam
